@@ -12,6 +12,6 @@ CRUD stands for Create, Retrieve, Update & Delete. These are the four basic oper
 
 **Delete** – delete, deactivate, or remove existing a table in the database.
 
-**Also read** : [Django CRUD Web application using Python](https://devnote.in/django-crud-web-application-using-python)
 
-![](https://devnote.in/wp-content/uploads/2020/04/Django-CRUD-Web-application-using-Python.png)
+
+
